@@ -1,7 +1,5 @@
 package kyrusk;
 
-import java.util.ArrayList;
-
 public class Course {
     String name;
     int credits;
